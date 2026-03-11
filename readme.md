@@ -50,3 +50,6 @@ Para executar o modelo de otimização é necessário ter instalado:
 
 # Execução
 Iniciar a execução do otimizador no CPLEX e acompanhar o processo.
+
+# Publicação
+- [Artigo](https://sol.sbc.org.br/index.php/sbsi/article/view/34323)
